@@ -1,3 +1,20 @@
 .addTask {
   /* Sample */
+background-color: white;
+}
+.addTask > input {
+  width: 90%;
+  height: 45px;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 15px;
+  border: 0px;
+}
+.addTask > button {
+  width: 10%;
+  background-color: white;
+  color: #0e5cad;
+  border: 0px;
+  font-size: 32px;
+  margin-top: 5px;
 }
