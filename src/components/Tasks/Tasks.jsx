@@ -1,6 +1,5 @@
 import React from "react";
 import styles from "./tasks.module.css";
-import { useState } from "react";
 import Task from "../Task/Task";
 
 const Tasks = ({task}) => {
