@@ -1,3 +1,18 @@
 .counter {
   /* TODO */
+  width: 80px;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+}
+.counter > button {
+  background-color: #8197e8;
+  border: none;
+  font-size: 18px;
+  width: 30px;
+  border-radius: 5px;
+  color: white;
+}
+.counter > span {
+  margin-top: 5px;
 }
